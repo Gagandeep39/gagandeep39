@@ -64,6 +64,11 @@ My name is Gagandeep Singh. I'm 21 year old self taught full stack developer who
 - Code Editor: VSCode - The best editor out there
 - To Stay Updated: Dev.to, Medium and Reddit
 
+## Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## Where to find me
 <p><a href="https://github.com/Gagandeep39" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gagandeep-m-singh/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
