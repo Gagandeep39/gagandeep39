@@ -58,7 +58,7 @@ My name is Gagandeep Singh. I'm 21 year old self taught full stack developer who
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
 ## Dev Enviroment
-- OS: Windows 20, Ubuntu 20.04
+- OS: Windows 10, Kde Neon
 - Laptop - Acer Predator Helios 300
 - Browser: Chrome Beta
 - Code Editor: VSCode - The best editor out there
