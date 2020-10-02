@@ -1,4 +1,4 @@
-[![Header](https://i.imgur.com/Mg3k9Ba.png?1 "Header")](https://github.com/Gagandeep39/gagandeep39.github.io)
+[![Header](https://i.imgur.com/Mg3k9Ba.png?1 "Header")](https://github.com/Gagandeep39/gagandeep39)
 
 # Hello, folks! <img src="https://i.imgur.com/wMAMzkJ.gif" width="30px">
 
