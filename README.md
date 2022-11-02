@@ -2,8 +2,6 @@
 
 # Hello, folks! <img src="https://i.imgur.com/wMAMzkJ.gif" width="30px">
 
-My name is Gagandeep Singh. I'm 23 year old self taught full stack developer who is passionate about Coding and DevOps. I'm from India, living in Mumbai.
-
 ![](https://visitor-badge.glitch.me/badge?page_id=Gagandeep39.Gagandeep39&style=flat-square)
 ## About Me
 - 🔭 I’m currently working on my Violin Skills
