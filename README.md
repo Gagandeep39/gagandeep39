@@ -2,17 +2,8 @@
 
 # Hello, folks! <img src="https://i.imgur.com/wMAMzkJ.gif" width="30px">
 
-![](https://visitor-badge.glitch.me/badge?page_id=Gagandeep39.Gagandeep39&style=flat-square)
-## About Me
-- 🔭 I’m currently working on my Violin Skills
-- 🌱 I’m currently learning AWS
-- ❤️ I Love to code
-- 💬 Ask me about anything
-- 📫 How to reach me: singh.gagandeep3911@gmail.com
-- 😄 Pronouns: he/him
 
-
-## Technologies & Tools
+## Tech Stack
 
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -55,23 +46,6 @@
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
-## Dev Enviroment
-- OS: Windows 11, Kde Neon
-- Laptop - Acer Predator Helios 300
-- Browser: Chrome
-- Code Editor: VSCode - The best editor out there
-- To Stay Updated: Dev.to, Medium and Reddit
-
-## Recent Activity
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 ## Where to find me
 <p><a href="https://github.com/Gagandeep39" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gagandeep-m-singh/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
