@@ -2,7 +2,6 @@
 
 # Hello, folks! <img src="https://i.imgur.com/wMAMzkJ.gif" width="30px">
 
-
 ## Tech Stack
 
 <p>
@@ -24,8 +23,8 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-080135?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-
 ## GitHub Stats
+
 <a href="https://github.com/Gagandeep39">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagandeep39&theme=default&layout=compact&hide=java&hide_border=true" />
 </a>
@@ -34,9 +33,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gagandeep39&theme=default&hide_border=true" alt="Gagandeep's Github Stats" />
 </a>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
-<!-- links to social media icons -->
+_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
+<!-- links to social media icons -->
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
@@ -46,6 +45,6 @@
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
-
 ## Where to find me
-<p><a href="https://github.com/Gagandeep39" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gagandeep-m-singh/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<p><a href="https://github.com/Gagandeep39" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gagandeep-m-singh/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:singh.gagandeep3911@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
