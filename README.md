@@ -25,13 +25,9 @@
 
 ## GitHub Stats
 
-<a href="https://github.com/Gagandeep39">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagandeep39&theme=default&layout=compact&hide=java&hide_border=true" />
-</a>
-<br/>
-<a href="https://github.com/Gagandeep39">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gagandeep39&theme=default&hide_border=true" alt="Gagandeep's Github Stats" />
-</a>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
