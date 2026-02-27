@@ -27,9 +27,8 @@
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+_NOTE: The "Top Languages" metric reflects the volume of code I have on GitHub, rather than my overall proficiency or skill level in these languages._
 
 <!-- links to social media icons -->
 
